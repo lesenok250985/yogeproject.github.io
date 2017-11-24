@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'OpenSans-Semibold';
+  src: url('OpenSans-Semibold.eot') format('embedded-opentype'),
+  url("../fonts/OpenSans-Semibold/OpenSans-Semibold.ttf") format("truetype"),
+  url("../fonts/OpenSans-Semibold/OpenSans-Semibold.woff") format("woff");
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: url('OpenSans-Bold.eot') format('embedded-opentype'),
+  url("../fonts/OpenSans-Bold/OpenSans-Bold.ttf") format("truetype"),
+  url("../fonts/OpenSans-Bold/OpenSans-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'OpenSans-Italic';
+  src: url('OpenSans-Italic.eot') format('embedded-opentype'),
+  url("../fonts/OpenSans-Italic/OpenSans-Italic.ttf") format("truetype"),
+  url("../fonts/OpenSans-Italic/OpenSans-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Champagne-Limousines-Bold';
+  src: url('Champagne-Limousines-Bold.eot') format('embedded-opentype'),
+  url("../fonts/Champagne-Limousines-Bold/Champagne-Limousines-Bold.ttf") format("truetype"),
+  url("../fonts/Champagne-Limousines-Bold/Champagne-Limousines-Bold.woff") format("woff");
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FreestyleScript-Regular';
+  src: url('FreestyleScript-Regular.eot') format('embedded-opentype'),
+  url("../fonts/FreestyleScript-Regular/FreestyleScript-Regular.ttf") format("truetype"),
+  url("../fonts/FreestyleScript-Regular/FreestyleScript-Regular.woff") format("woff");
+
+  font-weight: normal;
+  font-style: normal;
+}
